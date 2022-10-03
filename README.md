@@ -2,15 +2,29 @@
 
 A new Flutter project.
 
-## Getting Started
+#### By _**Benjamin Kiptoo**_
 
-This project is a starting point for a Flutter application.
+#### _This is a flutter app that creates an endless list of words._
 
-A few resources to get you started if this is your first Flutter project:
+#### Technologies used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Flutter 
+* Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Description
+
+_This is a flutter app that creates an endless list of words.The app runs in android,ios,web,windows,linux._
+
+## Setup/Installation Requirements
+
+* _Clone this repository in your dektop_
+*  _Navigate to top level of directory_
+* _Open it
+
+## Known Bugs
+
+* _No bug currently known_
+
+## License
+
+Copyright (c) _2020 Benjamin Kiptoo_
